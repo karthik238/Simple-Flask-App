@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: flaskmonitor
-        image: dvasanth26/flaskapp:latest
+        image: karthikk007/flaskapp:latest
         ports:
         - containerPort: 5000
